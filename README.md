@@ -1,27 +1,24 @@
 <img align="right" src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" width="180" />
 
-👋 *Hi there, I'm Shaul Akelo*
+👋 *Hi there, I'm Teddy Chemos*
 
 
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 
-I'm a passionate *Full Stack Developer* with hands-on experience in building modern web and mobile applications. My projects span across *Flutter, **Spring Boot, **React, **Vue.js, and **RESTful APIs, showcasing a strong foundation in **frontend, **backend, and **database* design.
+A Full Stack Developer with a strong foundation in the MERN stack and a passion for building scalable, user-focused web applications. My experience spans frontend frameworks like React.js and Next.js, coupled with robust backend development using Express.js, MongoDB, and Django. I’m proficient in crafting secure authentication flows (JWT, OAuth2) and integrating APIs, cloud media platforms, and payment gateways tailored for African markets. With a commitment to clean architecture, DevOps tools like Docker and CI/CD pipelines, and continuous learning, I bring reliability, adaptability, and strategic thinking to every project..
 
 
 
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/shaul-akello-53a46b226/">
+  <a href="https://www.linkedin.com/in/teddy-chemos-047070285/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />
   </a>
-  <a href="mailto:shaulakelo@gmail.com">
+  <a href="mailto:chemosted@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" />
-  </a>
-  <a href="https://www.instagram.com/official_shaul_?igsh=MW5rN2htc3RjeXcwOA==">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo" />
   </a>
 </div>
 
@@ -41,18 +38,8 @@ I'm a passionate *Full Stack Developer* with hands-on experience in building mod
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo" />
   
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
 </div>
 
 ### 🔧 Backend
