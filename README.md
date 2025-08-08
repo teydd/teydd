@@ -1,15 +1,8 @@
-<img align="right" src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" width="180" />
-
 👋 *Hi there, I'm Teddy Chemos*
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 
 A Full Stack Developer with a strong foundation in the MERN stack and a passion for building scalable, user-focused web applications. My experience spans frontend frameworks like React.js and Next.js, coupled with robust backend development using Express.js, MongoDB, and Django. I’m proficient in crafting secure authentication flows (JWT, OAuth2) and integrating APIs, cloud media platforms, and payment gateways tailored for African markets. With a commitment to clean architecture, DevOps tools like Docker and CI/CD pipelines, and continuous learning, I bring reliability, adaptability, and strategic thinking to every project..
-
-
 
 
 <h3 align="center">Connect with me:</h3>
@@ -22,16 +15,9 @@ A Full Stack Developer with a strong foundation in the MERN stack and a passion 
   </a>
 </div>
 
-
-
-
-
-
 <h1>Tech Stack & Tools <img align="left" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></h1>
 
-
 ### 🖥 Frontend
-
 
 <div align="left">
   <img width="12" />
@@ -49,7 +35,6 @@ A Full Stack Developer with a strong foundation in the MERN stack and a passion 
 </div>
 
 ### 🔧 Backend
-
 
 <div align="left">
   <img width="12" />
@@ -76,7 +61,6 @@ A Full Stack Developer with a strong foundation in the MERN stack and a passion 
 </div>
 
 ### 📦 Dev Tools & Platforms
-
 
 <div align="left">
   <img width="12" />
@@ -106,8 +90,6 @@ A Full Stack Developer with a strong foundation in the MERN stack and a passion 
 ---
 
 ## 🚀 GitHub Stats
-
-## 📊 GitHub Stats
 
 ![TEDDY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teydd&show_icons=true&theme=radical)
 
