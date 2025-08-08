@@ -107,6 +107,7 @@ A Full Stack Developer with a strong foundation in the MERN stack and a passion 
 
 ## 📊 GitHub Stats
 
+![TEDDY's GitHub stats](https://github-readme-stats.vercel.app/api?username=TEDDY&show_icons=true&theme=radical)
 ![Shaul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akelo-Shaul&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akelo-Shaul&layout=compact&theme=radical)
