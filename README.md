@@ -106,10 +106,11 @@ A Full Stack Developer with a strong foundation in the MERN stack and a passion 
 ---
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teydd&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teydd&layout=compact&theme=tokyonight)]
 
 [![TEDDY's GitHub stats](https://github-readme-stats.vercel.app/api?username=teydd&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 ---
 
 ## 🤝 Let's Connect
