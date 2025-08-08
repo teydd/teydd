@@ -97,11 +97,11 @@ A Full Stack Developer with a strong foundation in the MERN stack and a passion 
 ---
 
 ## 🛠 Projects & Experience
-- 📱 *Cross-platform apps* using Flutter (state management, API integration, navigation, WebView)
-- 🌍 *RESTful web services* with Spring Boot and H2/MySQL/PostgreSQL
-- 🛒 *React and Vue.js frontends* connected to Spring Boot APIs for real-world applications
-- 🔐 Implemented session management with SharedPreferences and cookies in Flutter
-- 💡 Built dynamic and responsive UI components based on user roles (e.g., student/teacher logic)
+- 📱 Building and maintaining full-stack applications with MERN Tech Stack.
+- 🌍 Working with RESTful APIs to integrate front-end applications with back-end services.
+- 🛒 *React and Nextjs frontends* connected to node js for real-world applications
+- 🔐 Writing clean, efficient, and well-documented code, following best practices.
+- 💡 Implementing modern, responsive UI components with Bootstrap 5 to enhance the user experience.
 
 ---
 
@@ -115,6 +115,6 @@ A Full Stack Developer with a strong foundation in the MERN stack and a passion 
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shaul-akello-53a46b226/)
-- 📧 Email: shaulakelo@gmail.com  
-- 🌍 Portfolio: (https://portfolio-site-49j6.onrender.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/teddy-chemos-047070285/)
+- 📧 Email: chemosted@gmail.com  
+- 🌍 Portfolio: (https://my-portfolio-teydds-projects.vercel.app/)
