@@ -108,9 +108,9 @@ A Full Stack Developer with a strong foundation in the MERN stack and a passion 
 ## 🚀 GitHub Stats
 
 <div align="center">
+  ![TEDDY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teydd&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teydd&layout=compact&theme=radical&hide=html,css&exclude_repo=portfolio-site,old-projects)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teydd&layout=compact&theme=radical)
 </div>
 ---
 
